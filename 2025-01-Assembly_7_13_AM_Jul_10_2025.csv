@@ -1,4 +1,4 @@
-Level,Part Number,Part Name,External Component,Milestone,Description,Item Number,Lifecycle,Revision,State,Quantity,Material Name,Change Order
+﻿Level,Part Number,Part Name,External Component,Milestone,Description,Item Number,Lifecycle,Revision,State,Quantity,Material Name,Change Order
 1,2025-01-Assembly,2025-01-Assembly,,,,,,,Working,1,Steel
 1.1,IGUS W v1,IGUS W v1,,,,,,,Working,1,Steel
 1.2,Profile 5,Profile 5,,,,,,,Working,8,Steel
