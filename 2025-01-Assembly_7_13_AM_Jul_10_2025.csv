@@ -1,0 +1,49 @@
+Part Name,2025-01-Assembly
+Working BOM,"as of July 10, 2025 at 7:13:23 AM UTC"
+Exported by,damian.jurkiewicz@apico.ch
+Time of Export,"7:13 AM Jul 10, 2025"
+
+Level,Part Number,Part Name,External Component,Milestone,Description,Item Number,Lifecycle,Revision,State,Quantity,Material Name,Change Order
+1,2025-01-Assembly,2025-01-Assembly,,,,,,,Working,1,Steel
+1.1,IGUS W v1,IGUS W v1,,,,,,,Working,1,Steel
+1.2,Profile 5,Profile 5,,,,,,,Working,8,Steel
+1.2.1,Item-Angle-Bracket-5-20x20,Item-Angle-Bracket-5-20x20,External,,,,,,Working,4,Steel
+1.2.1.1,item_0042503_Angle_Bracket_5_20x20_Zn_2,item_0042503_Angle_Bracket_5_20x20_Zn_2,,,,,,,Working,1,Steel
+1.3,GantryPlate,GantryPlate,,,,,,,Working,1,Steel
+1.4,2025_01_17_11_59_11_0097,2025-01-20-Cable Tunnel v1,,,STEP AP214,,,,Working,1,Steel
+1.4.1,2025_01_17_11_59_11_0144,2025_01_17_11_59_11_0144,,,PART-2025_01_17_11_59_11_0144-DESC,,,,Working,1,Steel
+1.5,Tunnel Support Guide,Tunnel Support Guide,,,,,,,Working,1,Steel
+1.6,IGUS W v2,IGUS W v2,,,,,,,Working,1,Steel
+1.7,Component37,Component37,,,,,,,Working,1,Steel
+1.8,91294A236_Black-Oxide Alloy Steel Hex Drive Flat Head Screw,91294A236_Black-Oxide Alloy Steel Hex Drive Flat Head Screw,,,,,,,Working,1,Steel
+1.9,Chariot Y,Chariot Y,,,,,,,Working,1,Steel
+1.9.1,Palier WJ200UM,Palier WJ200UM,External,,,,,,Working,8,Steel
+1.9.1.1,WJ200UM_01_16_AL_P230_2,WJ200UM_01_16_AL_P230_2,,,,,,,Working,1,Steel
+1.9.2,CoolerHolder,CoolerHolder,,,,,,,Working,1,Steel
+1.9.3,RailZ,RailZ,,,,,,,Working,1,Steel
+1.9.3.1,Baumer_IFRM_10138747,Baumer_IFRM_10138747,External,,STEP AP203,,,,Working,1,Steel
+1.9.3.1.1,Nut_IFRM_10138747,Nut_IFRM_10138747,,,Nut_IFRM_10138747,,,,Working,2,Steel
+1.9.3.1.2,3D_IFRM_10138747,3D_IFRM_10138747,,,3D_IFRM_10138747,,,,Working,1,Steel
+1.9.4,Sensor Holder Z,Sensor Holder Z,,,,,,,Working,1,Steel
+1.9.5,Chariot Z,Chariot Z,,,,,,,Working,1,Steel
+1.9.5.1,WJ200UM_01_10_1,WJ200UM_01_10_1,External,,,,,,Working,4,Steel
+1.9.5.1.1,2023_05_05_09_31_24_0780,2023_05_05_09_31_24_0780,,,,,,,Working,1,Steel
+1.10,91294A283_Black-Oxide Alloy Steel Hex Drive Flat Head Screw,91294A283_Black-Oxide Alloy Steel Hex Drive Flat Head Screw,,,,,,,Working,1,Steel
+1.11,2025_01_21_12_06_45_0381,E4_48L_075_1,External,,STEP AP214,,,,Working,1,Steel
+1.11.1,2025_01_21_12_06_45_0584,2025_01_21_12_06_45_0584,,,PART--DESC,,,,Working,1,Steel
+1.11.2,2025_01_21_12_06_45_0428,2025_01_21_12_06_45_0428,,,PART--DESC,,,,Working,1,Steel
+1.11.2.1,2025_01_21_12_06_45_0490,2025_01_21_12_06_45_0490,,,PART-2025_01_21_12_06_45_0490-DESC,,,,Working,1,Steel
+1.11.2.2,2025_01_21_12_06_45_0475,2025_01_21_12_06_45_0475,,,PART--DESC,,,,Working,1,Steel
+1.11.3,2025_01_21_12_06_45_0599,2025_01_21_12_06_45_0599,,,PART-2025_01_21_12_06_45_0599-DESC,,,,Working,1,Steel
+1.11.4,2025_01_21_12_06_45_0506,2025_01_21_12_06_45_0506,,,PART--DESC,,,,Working,1,Steel
+1.11.4.1,2025_01_21_12_06_45_0568,2025_01_21_12_06_45_0568,,,PART-2025_01_21_12_06_45_0568-DESC,,,,Working,1,Steel
+1.11.4.2,2025_01_21_12_06_45_0553,2025_01_21_12_06_45_0553,,,PART--DESC,,,,Working,1,Steel
+1.12,Sensor Mount,Sensor Mount,,,,,,,Working,1,Steel
+1.13,Plate Igus Canal Down,Plate Igus Canal Down,,,,,,,Working,1,Steel
+1.14,Item8x40 v2,Item8x40 v2,,,,,,,Working,1,Steel
+1.15,Support,Support,,,,,,,Working,1,Steel
+1.16,Plate Igus Canal Y,Plate Igus Canal Y,,,,,,,Working,1,Steel
+1.17,Tunnel Support Guide 2,Tunnel Support Guide 2,,,,,,,Working,1,Steel
+1.17.1,Component44,Component44,,,,,,,Working,1,Steel
+1.18,2025_01_17_11_59_11_0097,2025-01-20-Cable Tunnel,External,,STEP AP214,,,,Working,1,Steel
+1.18.1,2025_01_17_11_59_11_0144,2025_01_17_11_59_11_0144,,,PART-2025_01_17_11_59_11_0144-DESC,,,,Working,1,Steel
