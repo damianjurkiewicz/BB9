@@ -1,3 +1,14 @@
+# 🧠 System Design & Traceability – CNC Machine Project
+
+> *“Documentation provides traceability, repeatability, and ensures the understanding is maintained throughout the project life cycle.”*  
+> — **NASA Systems Engineering Handbook (SP-6105)**
+
+This repository documents the full mechatronic development workflow of a CNC machine controlled by PLC — combining CAD, control logic, requirements, and production data.  
+It follows a lightweight PLM strategy based on version-controlled, transparent artifacts:  
+Markdown, CSV, Python scripts, and traceable links to Jira tasks and CAD components.
+
+
+
 # 📌 Traceability Graph
 
 ```mermaid
