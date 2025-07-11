@@ -2,9 +2,22 @@
 
 ```mermaid
 flowchart TD
+  REQ[Requirement]
+  TASK[Jira Task]
+  BRANCH[Git Branch]
+  SCRIPT[Python Script]
+  CSV[CSV Export]
+  PR[Pull Request]
+  MERGE[Merge to Main]
+
   REQ --> TASK --> BRANCH --> SCRIPT --> CSV --> PR --> MERGE
+```
 
+---
 
+### 📁 Repo Structure
+
+```
 cnc-machine-plm/
 ├── README.md                   ← główna mapa: stack, traceability, struktura
 │
@@ -36,3 +49,4 @@ cnc-machine-plm/
 └── docs/                       ← opcjonalne PDF schematów, opisy fizyczne
     ├── electrical_layout.pdf   ← schemat zewnętrznej firmy
     └── actuator_specs.pdf
+```
