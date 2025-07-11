@@ -1,0 +1,4 @@
+﻿Name,Formula,Unit,Description
+Mass per Length,"=C2/B2","kg/m","masa podzielona przez długość"
+Max Load,"=0.5*A2*B2","N","przykładowa siła maksymalna"
+Deflection,"=A2^4/(8*B2*C2)","mm","ugięcie dla belki podpartej"
