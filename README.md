@@ -1,4 +1,4 @@
-# Traceability Graph
+# 📌 Traceability Graph
 
 ```mermaid
 flowchart TD
@@ -15,38 +15,38 @@ flowchart TD
 
 ---
 
-### 📁 Repo Structure
+### 📁 Project Repository Structure
 
 ```
-cnc-machine-plm/
-├── README.md                   ← główna mapa: stack, traceability, struktura
+📦 cnc-machine-plm/
+├── 📘 README.md                   ← 🧭 Main entry: stack, traceability, structure
 │
-├── plc/                        ← kod PLC (Structured Text, SFC)
-│   ├── main.st
-│   └── motion_axis_x.st
+├── 📁 plc/                        ← 💡 PLC logic (Structured Text, SFC)
+│   ├── 📄 main.st
+│   └── 📄 motion_axis_x.st
 │
-├── fusion/                     ← dane eksportowane z Fusion 360
-│   ├── bom_2025-07-10.csv      ← BOM: struktura, ilości, masa
-│   ├── sketch_areas.csv        ← powierzchnie i momenty bezwładności
-│   └── sensor_locations.csv    ← lokalizacje czujników itp. (opcjonalnie)
+├── 📁 fusion/                     ← 📐 Fusion 360 exports
+│   ├── 📄 bom_2025-07-10.csv      ← Bill of Materials
+│   ├── 📄 sketch_areas.csv        ← Areas and moments of inertia
+│   └── 📄 sensor_locations.csv    ← Sensor positions (optional)
 │
-├── requirements/               ← wymagania inżynierskie (.md)
-│   ├── CTX_TABLE_R5.md
-│   └── EQ_FRAME_BASE.md
+├── 📁 requirements/              ← 📑 Engineering requirements (Markdown)
+│   ├── 📄 CTX_TABLE_R5.md
+│   └── 📄 EQ_FRAME_BASE.md
 │
-├── mermaid/                    ← diagramy architektury i traceability
-│   ├── system_overview.md      ← np. BOM → Jira → kod
-│   └── motion_interfaces.mmd
+├── 📁 mermaid/                   ← 🧠 System diagrams & traceability maps
+│   ├── 🗺️ system_overview.md      ← e.g. BOM → Jira → Code
+│   └── 🔌 motion_interfaces.mmd
 │
-├── scripts/                    ← automatyczne eksporty i analizy
-│   ├── export_sketch_area.py
-│   └── export_bom.py
+├── 📁 scripts/                   ← 🛠 Automation scripts
+│   ├── 🐍 export_sketch_area.py
+│   └── 🐍 export_bom.py
 │
-├── io/                         ← tabela mapowań sygnałów IO
-│   ├── io_mapping.csv          ← tabela: %I / %Q ↔ komponenty
-│   └── io_links.md             ← opisy połączeń z CAD i wymaganiami
+├── 📁 io/                        ← 🔌 PLC IO signal mapping
+│   ├── 📄 io_mapping.csv          ← IO table: %I / %Q ↔ components
+│   └── 📄 io_links.md             ← Links between IO, CAD, and REQ
 │
-└── docs/                       ← opcjonalne PDF schematów, opisy fizyczne
-    ├── electrical_layout.pdf   ← schemat zewnętrznej firmy
-    └── actuator_specs.pdf
+└── 📁 docs/                      ← 📎 Reference files (optional)
+    ├── 🖼️ electrical_layout.pdf   ← Electrical schematic (external)
+    └── 📘 actuator_specs.pdf
 ```
