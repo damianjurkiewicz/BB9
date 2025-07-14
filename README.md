@@ -1,14 +1,10 @@
-# 🧠 System Design & Traceability – CNC Machine Project
+## 🧠 System Design & Traceability – CNC Machine Project
 
 > *“Documentation provides traceability, repeatability, and ensures the understanding is maintained throughout the project life cycle.”*  
 > — **NASA Systems Engineering Handbook (SP-6105)**
 
 
-# 🧠 System Design & Traceability – CNC Machine Project
-> *"You’re not just building a machine — you’re engineering the process of how machines are born."*  
-
-
-# 📌 Traceability Graph
+## 📌 Traceability Graph
 
 ```mermaid
 flowchart TD
